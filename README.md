@@ -1,17 +1,14 @@
 # Hello, I'm Anojan Yogenthiran! 👋
 
-# Hello, I'm Yanojan Yogenthiran! 👋
-
-## 🎓 Graduate Student at Western University Ontario
----
+I'm a graduate computer science student at Western University Ontario, deeply immersed in machine learning and data science. My journey has taken me through diverse areas of technology, and I'm passionate about leveraging AI to solve real-world problems.
 
 ### 🤖 About Me:
-- 🎓 MS in Computer Science at Western University Ontario.
-- 🎓 B.Sc in Electrical and Electronic Engineering from Sri Lanka Institute of Information Technology.
-- 💼 Former AI/ML Engineer at HeHealth, San Francisco, and Associate ML Engineer at SenzMate IoT Intelligence, Sri Lanka.
-- 🌱 Passionate about Machine Learning, Computer Vision, and AI.
+- 🎓 Pursuing a Master's in Computer Science, with a focus on AI and data-driven solutions.
+- 💼 Former AI/ML Engineer, experienced in developing innovative tech solutions.
+- 🌱 Constantly learning and contributing to the field of machine learning.
+- 🔭 Passionate about Machine Learning, Computer Vision, and AI.
 
-### 💻 Tech Stack:
+### 💻 Language and Tools:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -26,8 +23,8 @@
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ### 🌐 Connect with Me:
-- LinkedIn: www.linkedin.com/in/anojan-yogenthiran
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn](www.linkedin.com/in/anojan-yogenthiran)
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) yanojan96@gmail.com
 
-- Email: yanojan96@gmail.com
 ---
 

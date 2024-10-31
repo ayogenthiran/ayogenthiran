@@ -24,7 +24,7 @@ I'm a graduate computer science student at Western University Ontario, deeply im
 
 ### 🌐 Connect with Me:
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) [LinkedIn](www.linkedin.com/in/anojan-yogenthiran)
-- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) yanojan96@gmail.com
+- ![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white) ayogenth@uwo.ca
 
 ---
 

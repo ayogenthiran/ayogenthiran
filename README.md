@@ -26,8 +26,8 @@ I hold an **M.Sc. in Computer Science (AI Specialization)** from Western Univers
 
 I'm always excited about new opportunities, collaborations, or connecting with others passionate about AI's potential to transform industries. If you have an idea, role, or project where my skills could contribute, feel free to reach out!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anojan-yogenthiran/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ayogenthiran)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayogenth)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayogenth@uwo.ca)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=github&logoColor=white)](https://ayogenthiran.github.io/)
+<p align="center">
+  <a href="https://medium.com/@ayogenthiran">📝 Medium</a> •
+  <a href="https://x.com/ayogenth">𝕏 X</a> •
+  <a href="mailto:ayogenth@uwo.ca">✉️ Email</a>
+</p>

@@ -1,13 +1,22 @@
-![Snake animation](https://raw.githubusercontent.com/ayogenthiran/ayogenthiran/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayogenthiran/ayogenthiran/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayogenthiran/ayogenthiran/output/github-contribution-grid-snake-light.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ayogenthiran/ayogenthiran/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
-# Hi, I'm Anojan
-## AI/ML Engineer · Agentic AI · LLM Systems
+<h1 align="center">Hi, I'm Anojan</h1>
+<h3 align="center">AI/ML Engineer · Agentic AI · LLM Systems</h3>
+
+<p align="center">
+  <a href="https://ayogenthiran.github.io/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/anojan-yogenthiran/">🔗 LinkedIn</a>
+</p>
 
 I'm a fervent AI/ML Engineer with a deep interest in Machine Learning and a growing focus on Agentic AI and intelligent system design. My expertise spans ML Engineering, Deep Learning, multi-agent architectures, RAG systems, and LLM engineering — with hands-on experience across healthcare, IoT, and logistics domains.
 
 I hold an **M.Sc. in Computer Science (AI Specialization)** from Western University, and I actively write about AI/ML topics on Medium.
-
-🌎 [Portfolio](https://ayogenthiran.github.io/) • 🔗 [LinkedIn](https://www.linkedin.com/in/anojan-yogenthiran/)
 
 ---
 

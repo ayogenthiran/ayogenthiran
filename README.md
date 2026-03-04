@@ -1,4 +1,4 @@
-![Snake animation](https://raw.githubusercontent.com/ayogenthiran/ayogenthiran/output/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/ayogenthiran/ayogenthiran/output/github-contribution-grid-snake-dark.svg)
 
 # Hello, I'm Anojan 👋
 **AI/ML Engineer · Agentic AI · LLM Systems**

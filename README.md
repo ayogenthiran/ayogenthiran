@@ -27,7 +27,7 @@ I hold an **M.Sc. in Computer Science (AI Specialization)** from Western Univers
 I'm always excited about new opportunities, collaborations, or connecting with others passionate about AI's potential to transform industries. If you have an idea, role, or project where my skills could contribute, feel free to reach out!
 
 <p align="center">
-  <a href="https://medium.com/@ayogenthiran"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=flat-square" alt="Medium" height="20"/></a> •
+  <a href="https://medium.com/@ayogenthiran">M Medium</a> •
   <a href="https://x.com/ayogenth">𝕏 X</a> •
   <a href="mailto:ayogenth@uwo.ca">✉️ Email</a>
 </p>
